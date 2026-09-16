@@ -197,7 +197,7 @@ The developer install of FarmData2 relies on docker containers running:
    - an instance of the TheiaIDE.
    - an instance of the Cypress testing environment.
 
-All of the docker related configuration and source files are fohttps://github.com/NYU-CSE-Software-Engineering/GitKit-FarmData2-UGrad-Fall2026-Group3/issues/32und in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory.
+All of the docker related configuration and source files are found in the [docker](https://github.com/DickinsonCollege/FarmData2/tree/main/docker) directory.
 
 #### docker-compose ####
 
